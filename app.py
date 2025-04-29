@@ -64,4 +64,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ using Gemma-3 Vision Model | [Report an Issue](https://github.com/patchy631/ai-engineering-hub/issues)")
+st.markdown("Made with ❤️ using Gemma-3 Vision Model")
